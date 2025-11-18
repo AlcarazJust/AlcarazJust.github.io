@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Jordi Just Alcaraz
-description: PhD | Linguistics | USAL
+description: Predoc | Lingüística | USAL
 
 baseurl: ""
 url: "" #custom url to be used instead of GitHub repository
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://x.com/AlcarazJust"
-bluesky: "https://bsky.app/profile/alcarazjust.bsky.social"
-instagram: "https://www.instagram.com/_.jjordii._?igsh=MWl6emg3MjZ2dXllNw=="
-facebook: "https://www.facebook.com/share/192R5eC5oq/"
-github: "https://github.com/AlcarazJust"
-orcid: "https://orcid.org/0000-0002-7003-5466"
-academia-edu: "https://scholar.google.com/citations?user=fk0ngtIAAAAJ&hl=es"
-google-scholar: "https://scholar.google.com/citations?user=fk0ngtIAAAAJ&hl=es"
-researchgate: "https://www.researchgate.net/profile/Jordi-Just-Alcaraz"
+twitter: "AlcarazJust"
+bluesky: "alcarazjust.bsky.social"
+instagram: "_.jjordii._?igsh=MWl6emg3MjZ2dXllNw=="
+facebook: "share/192R5eC5oq/"
+github: "AlcarazJust"
+orcid: "0000-0002-7003-5466"
+academia-edu: "citations?user=fk0ngtIAAAAJ&hl=es"
+google-scholar: "citations?user=fk0ngtIAAAAJ&hl=es"
+researchgate: "Jordi-Just-Alcaraz"
 
 # Markdown
 highlighter: rouge
