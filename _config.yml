@@ -3,7 +3,7 @@
 title: Jordi Just Alcaraz
 description: PhD | Linguistics | USAL
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: "https://AlcarazJust.github.io"
 url: "" #custom url to be used instead of GitHub repository
 email: jordijustalcaraz@usal.es
 
