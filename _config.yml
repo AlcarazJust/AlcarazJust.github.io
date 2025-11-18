@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Jordi Just Alcaraz
+description: PhD | Linguistics | USAL
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: jordijustalcaraz@usal.es
 
 # Pagination
 paginate: 4
