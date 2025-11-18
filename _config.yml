@@ -13,14 +13,14 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "AlcarazJust"
+twitter: "https://twitter.com/AlcarazJust"
 bluesky: "alcarazjust.bsky.social"
 instagram: "_.jjordii._?igsh=MWl6emg3MjZ2dXllNw=="
 github: "AlcarazJust"
 orcid: "0000-0002-7003-5466"
 researchgate: "Jordi-Just-Alcaraz"
-google_scholar: "citations?user=fk0ngtIAAAAJ&hl=es"
-academia: "JordiJustAlcaraz"
+google_scholar: "https://scholar.google.es/citations?user=fk0ngtIAAAAJ&hl=es"
+academia: "https://independent.academia.edu/JordiJustAlcaraz"
 
 # Markdown
 highlighter: rouge
