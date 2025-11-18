@@ -13,15 +13,16 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
+x: "#"
+bluesky: "#"
+instagram: "#"
+facebook: "#"
+orcid: "#"
+academia: "#"
+google scholar: "#"
 github: "#"
 researchgate: "#"
 orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
 
 # Markdown
 highlighter: rouge
@@ -38,7 +39,7 @@ compress_html:
   ignore:
     envs: [local]
   blanklines: false
-  profile: false
+  profile: true
   startings: []
 
 #collection
