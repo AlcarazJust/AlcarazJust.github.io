@@ -10,10 +10,11 @@ href="mailto:{{ site.email | encode_email }}" target="_blank">
 
 {%- if site.twitter -%}
 <a title="X (Twitter)" 
-   class="social-button twitter" itemprop="sameAs" 
+   class="social-button" itemprop="sameAs" 
    href="{{ site.twitter }}" 
-   target="_blank">
-   <i class="fa-brands fa-x-twitter" style="font-family: 'Font Awesome 6 Brands' !important;"></i>
+   target="_blank"
+   style="color: black; text-decoration: none;">
+   <i class="fa-brands fa-x-twitter"></i>
 </a>
 {%- endif -%}
    
