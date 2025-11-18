@@ -38,7 +38,7 @@ compress_html:
   ignore:
     envs: [local]
   blanklines: false
-  profile: "/assets/images/profile.png"
+  profile: false
   startings: []
 
 #collection
