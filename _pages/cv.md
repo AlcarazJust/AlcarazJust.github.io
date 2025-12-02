@@ -6,7 +6,7 @@ layout: null
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=/assets/files/cv.pdf">
+    <meta http-equiv="refresh" content="0; url=/assets/files/cvn.pdf">
     <title>Redirigiendo al CV...</title>
 </head>
 <body>
