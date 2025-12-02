@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Entorno de trabajo
+title: Perfil académico
 permalink: /blog/
-nav: true
+published: true
 ---
