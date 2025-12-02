@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: Perfil académico
 permalink: /blog/
 published: true
