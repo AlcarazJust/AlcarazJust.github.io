@@ -1,7 +1,7 @@
 ---
 title: Archivos y documentos
 layout: default
-permalink: /projects/
+permalink: /archive/
 published: true
 ---
 
