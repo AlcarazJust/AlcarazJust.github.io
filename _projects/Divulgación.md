@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Divulgación
-description: Pequeños ensayos y artículos publicados con fines divulgativos
-date: 2025-12-01
+description: Ensayos y artículos publicados con fines divulgativos
+date: 2025-12-03
 ---
 
 En revistas
