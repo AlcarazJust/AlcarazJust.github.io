@@ -2,7 +2,6 @@
 layout: post
 title: Reseñas
 description: Reseñas de libros publicadas en revistas académicas
-date: 2025-12-02
 ---
 
 Próximamente...
