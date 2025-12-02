@@ -10,6 +10,6 @@ layout: null
     <title>Redirigiendo al CV...</title>
 </head>
 <body>
-    <p>Abriendo el CV... si no carga, <a href="/assets/files/cv.pdf">haz clic aquí</a>.</p>
+    <p>Abriendo el CV... si no carga, <a href="/assets/files/cvn.pdf">haz clic aquí</a>.</p>
 </body>
 </html>
