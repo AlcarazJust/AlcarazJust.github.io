@@ -1,7 +1,7 @@
 ---
 title: Archivos y documentos
 layout: default
-permalink: /archive/
+permalink: /biblio/
 published: true
 ---
 
