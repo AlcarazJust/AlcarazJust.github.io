@@ -2,7 +2,7 @@
 layout: post
 title: Publicaciones
 description: Base documental con los archivos en acceso abierto
-date: 2025-12-03
+date: 2025-12-01
 ---
 
 Todas las publicaciones que se listan a continuación se citan en formato APA. Al final de cada referencia, se puede descargar el documento en cuestión.
