@@ -2,7 +2,6 @@
 layout: post
 title: Divulgación
 description: Ensayos y artículos publicados con fines divulgativos
-date: 2025-12-03
 ---
 
 En revistas
